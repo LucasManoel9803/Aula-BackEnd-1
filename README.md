@@ -3,4 +3,4 @@
 
 **Turma:** Tecnico de Desenvolvimento de Sistemas - 2A
 
-**Oque espero aprender:** Espero aprender pelo menos o mínimo de programação.
+**Oque espero aprender:** Espero aprender pelo menos o mínimo de programação..
